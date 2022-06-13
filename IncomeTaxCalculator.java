@@ -1,10 +1,6 @@
-// Aaron Corona
-// Project 1
-// March 16th, 2022
-
 /*
-Requirements:
-Given a person's filing status and income, output the amount of tax they owe.
+Logic Overview:
+Given a person's filing status and income, output the amount of tax they owe using marginal tax rates.
 */
 
 import java.util.*;
